@@ -8,7 +8,7 @@ Stable tag: 15.1.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Instantly increase your sales by adding the VePlatform�s intelligent remarketing and re-engagement apps into your webstore.
+Instantly increase your sales by adding the VePlatform's intelligent remarketing and re-engagement apps into your webstore.
 
 == Description ==
 
@@ -63,8 +63,3 @@ A successful digital advertising campaign uses a blend of prospecting and on and
 4. Select the products and confirm.
 
 == Screenshots ==
-
-1. Veplatform Login (View your activated product)
-2. VePrompt product (PopUp)
-3. Back-end: Product list
-4. Back-end: Product description
