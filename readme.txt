@@ -63,3 +63,8 @@ A successful digital advertising campaign uses a blend of prospecting and on and
 4. Select the products and confirm.
 
 == Screenshots ==
+
+1. Screenshot 1
+2. Screenshot 2
+3. Screenshot 3
+4. Screenshot 4
