@@ -14,29 +14,76 @@ Instantly increase your sales by adding the VePlatform's intelligent remarketing
 
 > This plugin requires <a href="http://wordpress.org/plugins/woocommerce/" rel="nofollow">WooCommerce plugin</a>.
 
-By Integrating the VePlatform into your WooCommerce webstore, you will have instant access to its suite of display advertising, remarketing and re-engagement apps designed to:
+= Gain access to 4 marketing apps that generate sales for tens of thousands of happy customers worldwide =
 
-* Reduce your website's bounce rate
-* Recover lost sales with email, display retargeting and SMS messaging 
-* Increase conversion with real time onsite engagement 
-* Reach new and existing prospects with digital display advertising
-* Our applications work best when combined ensuring you don't pay more than once for a conversion generated, however we provide the option of using just one or more if you wish.
+On average we can help your business generate up to 40% in new sales per month.
+Website abandonment and cart abandonment are responsible for businesses only achieving up to 30% of their potential sales. 70% or 3 in 4 potential customers place your products in their basket and then abandon. VePlatform tracks all of your customers across your site and lets you deploy a series of Apps designed to win those customers back.
 
-The VePlatform features the following apps:
+= You can trust our apps to: =
 
-= VeContact: Recover lost shopping carts =
-* VeContact increases your sales by delivering real-time emails to customers who abandon at the check-out, enticing them back to complete their purchase with highly targeted and personalised content. Includes promo code integration and compatible across all devices.
+* Find you new customers
+* Retarget lost customers
+* Increase your online revenue
+* Increase customer time on your site
 
-= VePrompt: Increase website conversion =
-* VePrompt re-engages your customers at the point they abandon your website and prevents lost sales caused by price comparison shopping, site usability or distraction during the purchase process. The VePrompt automated agent delivers real-time re-marketing messages. VePrompt can also deliver promotional codes to specific segments based on purchasing behaviour.
-= VeAssist: Search optimization =
-* VeAssist is an onsite product matching tool that directly tackles bounce caused by the disconnect that can exist between search and the products displayed on landing pages. Activated when a customer hits the back button to bounce, VeAssist interrogates your inventory and uses exact and nearest match logic to present the customer with enhanced product results, based on their original search engine query. Compatible with all search engines.
+https://youtu.be/eYeAh6_Iv10
 
-= VeAds: Dynamic display advertising =
-* VeAds harnesses the power of customer and purchasing intent data to deliver successful advertising campaigns that meet all advertiser KPIs. VeAds helps you target and convert new audiences, on a vast scale, across all connected devices.
-A successful digital advertising campaign uses a blend of prospecting and on and off site re-engagement to ensure that marketing dollars invested generate the best possible return.
-1. Prospecting. Prospect for new customers by delivering bespoke display ads against contextually relevant content, on websites whose audiences match your target customers behavioural and demographic profiles.
-2. Retargeting. Re-engage with users on and off-site who have visited your website but abandoned without purchasing or converting. This process ensures that you make the most of your advertising investment by driving users through the advertising conversion funnel.
+
+= Login into VePlatform and gain access to: =
+
+A display advertising app that lets you advertise through display or social media
+* Get started affordably with display advertising
+* Acquire new customers
+* Retarget lost customers
+* See a significant increase in traffic on your site
+* The result: More sales
+
+A search optimisation app that presents the end user with a gallery of products that match their keyword search if they try to bounce from your site without purchasing
+* Fixes search engine product indexing
+* Improves site navigation
+* Helps customers find your products 
+* The result: More sales
+
+A shopping prompt app that displays a key message or offer to a user if they try to leave your site after browsing and don’t make a purchase
+* Gives you a second chance with a customer
+* Displays a customised offer
+* Persuades the customer to continue shopping
+* The result: More sales
+
+An abandoned cart app that automatically sends a series of emails to customers who abandon their cart in the transaction pages
+* Sends mobile responsive attention grabbing emails
+* Sends one or multiple emails at times you decide
+* Persuades the customer to complete their basket
+* The result: More sales
+
+= Extra features: =
+
+* All the apps are under your creative control, you can change the copy, artwork and offers, ensuring everything looks the same as your website and brand
+* The abandoned cart app delivers highly personalised emails to each of your customers containing any data you wish to include from the basket session
+* All the apps are automated letting you focus on your customers and business, once you set them up, they automatically run and generate you new sales 24/7/365 days a year
+* You can use one app or all the apps, you just enable them or disable them in VePlatform
+* All the apps are multi-lingual, offering you the ability to run international campaigns in the language of your customers
+* All updates are free, you will continue to see new regular features as we develop our apps
+* We have a series of new apps in design and development right now, you get access to these for free when they go live
+
+= Support: =
+
+* VePlatform is intuitive and easy to use, you will have access to lots of free educational resources and materials to help you succeed
+* You will gain a business partner who employs 750 people who believe in building and designing better apps that will help your business make more money online
+* You get access to all of our ecommerce planning guides that can help your business increase its revenue further
+
+= Why choose Ve: =
+
+* We specialise in ecommerce optimisation, all of our apps are proven to generate new sales
+* We are a multi-award-winning company 
+* We support 10,000 happy clients internationally, some of them you may have heard of: 
+Barclays Bank, Lloyds Bank, Audi, Microsoft, Topman, Argos, Karen Millen, Toys R Us, The Economist, Thomas Cook, Liverpool FC.
+
+= Pricing: =
+
+* The search, prompt and email app are currently on a CPA basis
+* The display advertising app is currently on a CPA, CPC, CPM basis, priced to suit your goals
+
 
 = Localization =
 
@@ -48,19 +95,21 @@ A successful digital advertising campaign uses a blend of prospecting and on and
 
 * WooCommerce v2.2.0 (http://wordpress.org/plugins/woocommerce/)
 
-= From your WordPress dashboard =
+In order to start the installation you first need to have a configured WordPress account and a WordPress web store. 
 
-1. Visit 'Plugins > Add New'
-2. Search for 'VePlatform'
-3. Activate VePlatform from your Plugins page. (You'll be greeted with a Welcome page.)
-4. Select the products and confirm.
+To install VePlatform complete the following steps:
+1.  Download the VePlatform plugin .zip file in the header above.
+2.  Select the WooCommerce admin panel from within your Wordpress web store.
+3.  Select “Plugins > Add New” and upload the VePlatform plugin .zip file.
+4.  Click “Install Now”.
+5.  Click the “Activate Plugin” button.
+6.  Once the installation is complete, you will be redirected to the VeApp selector page in the WooCommerce section. 
+7.  At this point, you can check if the tag is generated in your web store. 
+8.  On the VeApp selector page select which VeApps you wish to use and then click “Confirm Selection”.
+9.  The complete page is displayed.
+10. Installation is complete and you can check if the pixel is generated in your web store.
 
-= From WordPress.org =
-
-1. Download VePlatform.
-2. Upload the 'VePlatform' directory to your '/wp-content/plugins/' directory.
-3. Activate VePlatform from your Plugins page. (You'll be greeted with a Welcome page.)
-4. Select the products and confirm.
+If you need further assistance or advice please contact us at: woocommerce@veinteractive.com 
 
 == Screenshots ==
 
