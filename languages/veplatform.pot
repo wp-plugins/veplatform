@@ -1,0 +1,235 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VePlatform\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-17 17:07+0100\n"
+"POT-Revision-Date: Tue Aug 04 2015 16:07:15 GMT+0300 (GTB Summer Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Ve Interactive <redbull@veinteractive.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\n"
+"X-Poedit-SearchPathExcluded-0: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\\languages\n"
+"X-Poedit-SearchPathExcluded-1: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\\assets\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:15
+msgid "VE_ERROR_INSTALLING_1"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:18
+msgid "VE_ERROR_INSTALLING_2"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:27
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_1"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:29
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_2"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:32
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_DOUBT"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:38
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:35
+msgid "VE_BEST_REGARDS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:52
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:49
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:166
+msgid "VE_COPY_RIGHTS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:15
+msgid "VE_THANK_YOU_FOR_SELECTING"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:18
+msgid "VE_NEXT_STEPS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:27
+msgid "VE_THANK_YOU_FOR_SELECTING_APP"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:28
+msgid "VE_ACCOUNT_MANAGER_CONTACT"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:29
+msgid "VE_CREATIVE_EXAMPLES_APP"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:17
+msgid "VE_ALREADY_CLIENT"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:19
+msgid "VE_LOGIN"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:30
+msgid "VE_THANK_YOU_FOR_INSTALLING"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:33
+msgid "VE_NOW_CHOOSE_APPLICATIONS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:43
+msgid "VE_BY_INTEGRATING_VEPLATFORM"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:46
+msgid "VE_REDUCE_BOUNCE_RATE"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:47
+msgid "VE_RECOVER_LOST_SALES"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:48
+msgid "VE_INCREASE_CONVERSION"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:49
+msgid "VE_REACH_PROSPECTS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:51
+msgid "VE_ACTIVATING_VE_APPS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:56
+msgid "VE_PLEASE_SELECT_APPS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:60
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:139
+msgid "VE_DYNAMIC_DISPLAY_ADVERTISING"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:65
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:76
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:87
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:98
+msgid "VE_FIND_OUT_MORE"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:71
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:129
+msgid "VE_SEARCH_OPTIMIZATION"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:82
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:109
+msgid "VE_INCREASE_WEBSITE_CONVERSION"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:93
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:119
+msgid "VE_RECOVER_LOST_SHOPPING_CARTS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:103
+msgid "VE_CONFIRM_SELECTION"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:112
+msgid "VE_DESCRIPTION_VEPROMPT"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:114
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:124
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:134
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:144
+msgid "VE_CLOSE_APP_DETAILS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:122
+msgid "VE_DESCRIPTION_VECONTACT"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:132
+msgid "VE_DESCRIPTION_VEASSIST"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:142
+msgid "VE_DESCRIPTION_VEADS"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:152
+msgid "VE_INFO_LEGAL_TEXT"
+msgstr ""
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:160
+msgid "VE_LINK"
+msgstr ""

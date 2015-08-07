@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VePlatform\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-17 17:07+0100\n"
+"PO-Revision-Date: Tue Aug 04 2015 16:06:37 GMT+0300 (GTB Summer Time)\n"
+"Last-Translator: \n"
+"Language-Team: Ve Interactive <redbull@veinteractive.com>\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: en_GB\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\n"
+"X-Poedit-SearchPathExcluded-0: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\\languages\n"
+"X-Poedit-SearchPathExcluded-1: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\\assets\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:15
+msgid "VE_ERROR_INSTALLING_1"
+msgstr "There was a problem when installing"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:18
+msgid "VE_ERROR_INSTALLING_2"
+msgstr "Now see below for the next steps to try again"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:27
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_1"
+msgstr "There was a problem connecting to Ve Interactive Server, "
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:29
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_2"
+msgstr "try again please."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:32
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_DOUBT"
+msgstr "If you have any doubt please contact us."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:38
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:35
+msgid "VE_BEST_REGARDS"
+msgstr "Best regards,"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-error.php:52
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:49
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:166
+msgid "VE_COPY_RIGHTS"
+msgstr "&copy;"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:15
+msgid "VE_THANK_YOU_FOR_SELECTING"
+msgstr "Thank you for selecting your applications"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:18
+msgid "VE_NEXT_STEPS"
+msgstr "Now see below for the next steps"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:27
+msgid "VE_THANK_YOU_FOR_SELECTING_APP"
+msgstr ""
+"Thank you for selecting your chosen Ve Apps. You are one step closer to "
+"increasing customer engagement and conversions on your site."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:28
+msgid "VE_ACCOUNT_MANAGER_CONTACT"
+msgstr ""
+"An Account Manager will contact you within 2 working days to configure your "
+"first campaigns or you can contact us below to get started straight away."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform-thank-you.php:29
+msgid "VE_CREATIVE_EXAMPLES_APP"
+msgstr ""
+"Creative examples of our apps available to view <a target=\"_blank\" "
+"href=\"http://vecreative.veinteractive.com\">here</a>."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:17
+msgid "VE_ALREADY_CLIENT"
+msgstr "Are you already a client? Then..."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:19
+msgid "VE_LOGIN"
+msgstr "Login"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:30
+msgid "VE_THANK_YOU_FOR_INSTALLING"
+msgstr "Thank you for installing VePlatform with WooCommerce"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:33
+msgid "VE_NOW_CHOOSE_APPLICATIONS"
+msgstr "Now choose from our range of applications"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:43
+msgid "VE_BY_INTEGRATING_VEPLATFORM"
+msgstr ""
+"By integrating the VePlatform into your WooCommerce webstore, you now have "
+"instant access to its suite of retargeting, remarketing and re-engagement "
+"apps designed to:"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:46
+msgid "VE_REDUCE_BOUNCE_RATE"
+msgstr "Reduce your website's bounce rate"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:47
+msgid "VE_RECOVER_LOST_SALES"
+msgstr "Recover lost sales with email, display retargeting and SMS messaging"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:48
+msgid "VE_INCREASE_CONVERSION"
+msgstr "Increase conversion with real time onsite engagement"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:49
+msgid "VE_REACH_PROSPECTS"
+msgstr "Reach new and existing prospects with digital display advertising"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:51
+msgid "VE_ACTIVATING_VE_APPS"
+msgstr ""
+"Activating all the Ve Apps on the VePlatform will deliver the maximum uplift "
+"in conversion. However, we also provide the option of selecting one or "
+"multiple apps to match your ecommerce goals."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:56
+msgid "VE_PLEASE_SELECT_APPS"
+msgstr "Please select from the following apps"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:60
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:139
+msgid "VE_DYNAMIC_DISPLAY_ADVERTISING"
+msgstr "Dynamic display advertising"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:65
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:76
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:87
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:98
+msgid "VE_FIND_OUT_MORE"
+msgstr "Find out more "
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:71
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:129
+msgid "VE_SEARCH_OPTIMIZATION"
+msgstr "Search optimization"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:82
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:109
+msgid "VE_INCREASE_WEBSITE_CONVERSION"
+msgstr "Increase website conversion"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:93
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:119
+msgid "VE_RECOVER_LOST_SHOPPING_CARTS"
+msgstr "Recover lost shopping carts "
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:103
+msgid "VE_CONFIRM_SELECTION"
+msgstr "Confirm Selection"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:112
+msgid "VE_DESCRIPTION_VEPROMPT"
+msgstr ""
+"VePrompt re-engages your customers at the point they abandon your website "
+"and prevents lost sales caused by price comparison shopping, site usability "
+"or distraction during the purchase process. VePrompt delivers real-time re-"
+"marketing messages via overlays which fire when a customer abandons your "
+"shopping cart or product pages. VePrompt can also deliver promotional codes "
+"to specific segments based on purchasing behaviour.\n"
+"\n"
+"\n"
+"\n"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:114
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:124
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:134
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:144
+msgid "VE_CLOSE_APP_DETAILS"
+msgstr "Close App Details"
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:122
+msgid "VE_DESCRIPTION_VECONTACT"
+msgstr ""
+"VeContact increases your sales by delivering real-time emails to customers "
+"who abandon at the check-out, enticing them back to complete their purchase "
+"with highly targeted and personalised content. Includes promo code "
+"integration and compatible across all devices."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:132
+msgid "VE_DESCRIPTION_VEASSIST"
+msgstr ""
+"VeAssist is an onsite product matching tool that directly tackles bounce "
+"caused by the disconnect that can exist between search and the products "
+"displayed on landing pages. Activated when a customer hits the back button "
+"to bounce, VeAssist interrogates your inventory and uses 'exact' and "
+"'nearest' match logic to present the customer with enhanced product results, "
+"based on their original search engine query. Compatible with all search "
+"engines."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:142
+msgid "VE_DESCRIPTION_VEADS"
+msgstr ""
+"VeAds harnesses the power of customer and purchasing intent data to deliver "
+"advertising campaigns that meet all advertiser KPIs. VeAds helps you target "
+"and convert new audiences, on a vast scale, across all connected devices. A "
+"successful digital advertising campaign uses a blend of prospecting and on "
+"and off site re-engagement to ensure that marketing dollars invested "
+"generate the best possible return."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:152
+msgid "VE_INFO_LEGAL_TEXT"
+msgstr ""
+"All Ve Apps are free to install and deploy. There are no upfront costs for "
+"set up, one-off charges or ongoing subscription costs. We only charge on a "
+"cost per acquisition basis meaning you only pay a 8% commission when one of "
+"our apps converts a sale on your site. If they all contribute to a sale, you "
+"still only pay once."
+
+#: C:\Vagrant\woocommerce\public\wordpress\wp-
+#: content\plugins\veplatform/templates/admin/ve-platform.php:160
+msgid "VE_LINK"
+msgstr "http://www.veinteractive.com/"
