@@ -26,8 +26,7 @@ Website abandonment and cart abandonment are responsible for businesses only ach
 * Increase your online revenue
 * Increase customer time on your site
 
-https://youtu.be/eYeAh6_Iv10
-
+https://www.youtube.com/watch?v=eYeAh6_Iv10
 
 = Login into VePlatform and gain access to: =
 
