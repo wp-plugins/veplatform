@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=eYeAh6_Iv10
 = Login into VePlatform and gain access to: =
 
 A display advertising app that lets you advertise through display or social media
+
 * Get started affordably with display advertising
 * Acquire new customers
 * Retarget lost customers
@@ -38,18 +39,21 @@ A display advertising app that lets you advertise through display or social medi
 * The result: More sales
 
 A search optimisation app that presents the end user with a gallery of products that match their keyword search if they try to bounce from your site without purchasing
+
 * Fixes search engine product indexing
 * Improves site navigation
 * Helps customers find your products 
 * The result: More sales
 
 A shopping prompt app that displays a key message or offer to a user if they try to leave your site after browsing and don’t make a purchase
+
 * Gives you a second chance with a customer
 * Displays a customised offer
 * Persuades the customer to continue shopping
 * The result: More sales
 
 An abandoned cart app that automatically sends a series of emails to customers who abandon their cart in the transaction pages
+
 * Sends mobile responsive attention grabbing emails
 * Sends one or multiple emails at times you decide
 * Persuades the customer to complete their basket
