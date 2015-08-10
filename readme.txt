@@ -3,7 +3,7 @@ Contributors: Ve Interactive
 Author URI: http://www.veinteractive.com
 Tags: Email, Advertising, Prompt, Remarketing, Conversions, Sales, Abandoned, Cart, Retargeting, Increase, display advertising, Dynamic 
 Requires at least: 4.0
-Tested up to: 4.1
+Tested up to: 4.2.4
 Stable tag: 15.1.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -101,6 +101,7 @@ Barclays Bank, Lloyds Bank, Audi, Microsoft, Topman, Argos, Karen Millen, Toys R
 In order to start the installation you first need to have a configured WordPress account and a WordPress web store. 
 
 To install VePlatform complete the following steps:
+
 1.  Download the VePlatform plugin .zip file in the header above.
 2.  Select the WooCommerce admin panel from within your Wordpress web store.
 3.  Select “Plugins > Add New” and upload the VePlatform plugin .zip file.
