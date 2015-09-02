@@ -96,7 +96,7 @@ Barclays Bank, Lloyds Bank, Audi, Microsoft, Topman, Argos, Karen Millen, Toys R
 
 = Minimum Requirements =
 
-* WooCommerce v2.2.0 (http://wordpress.org/plugins/woocommerce/)
+* WooCommerce v2.0 (http://wordpress.org/plugins/woocommerce/)
 
 In order to start the installation you first need to have a configured WordPress account and a WordPress web store. 
 
